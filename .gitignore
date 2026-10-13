@@ -1,0 +1,19 @@
+# Environment and API keys
+.env
+.env.local
+.gemini_local_config.json
+.creds.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.venv/
+env/
+venv/
+ENV/
+
+# Scratch & Logs
+*.log
+scratch/
+.system_generated/
